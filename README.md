@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/craft/main/.github/assets/thumbnail.png" alt="craft" width="100%">
+</p>
+
 # craft
 
 [![Release](https://img.shields.io/github/v/release/libnudget/craft?logo=github&label=latest)](https://github.com/libnudget/craft/releases)
