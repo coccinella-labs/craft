@@ -4,7 +4,7 @@
 
 # craft
 
-[![Release](https://img.shields.io/github/v/release/libnudget/craft?logo=github&label=latest)](https://github.com/libnudget/craft/releases)
+[![Release](https://img.shields.io/github/v/release/coccinella-labs/craft?logo=github&label=latest)](https://github.com/coccinella-labs/craft/releases)
 
 An experimental package manager for single-file tools.
 
@@ -19,7 +19,7 @@ This is an experimental release. The interface is not yet stable.
 ## Installation
 
 ```sh
-cargo install --git https://github.com/libnudget/craft
+cargo install --git https://github.com/coccinella-labs/craft
 ```
 
 ## Usage
